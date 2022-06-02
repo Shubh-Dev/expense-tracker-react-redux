@@ -1,0 +1,9 @@
+.expense-container {
+  text-align: center;
+  margin: auto;
+  width: 70%;
+  border: 1px solid black;
+  border-radius: 10px;
+  min-height: 20vh;
+  background-color: beige;
+}

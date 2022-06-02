@@ -1,8 +1,16 @@
 import './App.css';
+import Expenses from './components/Expenses';
 
 function App() {
   return (
-    <h1 className="App">Hello World</h1>
+    <di className="App">
+      <header>
+        {' '}
+        <h1>Expense Tracker</h1>
+        {' '}
+      </header>
+      <Expenses />
+    </di>
   );
 }
 
